@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🧪 Manual Testing – OpenCart Web Application
 
 This project is dedicated to the **manual testing** of the **OpenCart** web application. It includes well-documented **test plans**, **test cases**, and supporting documentation designed to help manual testers evaluate OpenCart’s functionality, usability, and reliability.
